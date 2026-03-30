@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "baby0babies.aternos.me:53705",
+    "ip": "baby0babies.aternos.me",
     "port": 53705,
     "version": "",
     "try-creative": false
